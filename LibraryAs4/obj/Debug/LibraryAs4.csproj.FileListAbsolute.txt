@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Assignment4\LibraryAs4\bin\Debug\LibraryAs4.dll
+C:\Users\DELL\source\repos\Assignment4\LibraryAs4\bin\Debug\LibraryAs4.pdb
+C:\Users\DELL\source\repos\Assignment4\LibraryAs4\obj\Debug\LibraryAs4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assignment4\LibraryAs4\obj\Debug\LibraryAs4.dll
+C:\Users\DELL\source\repos\Assignment4\LibraryAs4\obj\Debug\LibraryAs4.pdb
+C:\Users\DELL\source\repos\Assignment4\LibraryAs4\obj\Debug\LibraryAs4.csprojAssemblyReference.cache
